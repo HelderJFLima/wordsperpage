@@ -1,0 +1,4 @@
+
+density: 271 +- 23  words per page
+
+total: 101 +- 9  kilowords
